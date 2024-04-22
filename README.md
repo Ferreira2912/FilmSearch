@@ -3,7 +3,7 @@
 :mega: Welcome to the FilmSearch repository! This project is dedicated to helping users quickly discover films by name. Whether you're trying to recall a movie you've heard about or need to confirm the title of a film you're thinking of, Film Finder makes your search as easy as typing a name.
 
 
-:key: Features :key:
+:key: Features :key: <td>
 :bulb: Simple Search Interface: Just enter the name of the film you're looking for, and get the title confirmed instantly.
 :bulb: Lightweight and Fast: Designed to be efficient, ensuring quick searches without any hassle.
 :bulb: User-Friendly: No complicated setups or learning curve. Just open and start searching!
